@@ -1,0 +1,16 @@
+#	figshare article 33000602  (scDRS-FM data release)
+#	dataset	h5ad_file	cov_file	species	approx_h5ad_MB	full_cov_rows
+dataset	TMS_FACS	TMS_FACS.h5ad	TMS_FACS.cov	mouse	2365	110824
+dataset	TS_FACS	ts_facs.h5ad	ts.cov	human	1851	483152
+dataset	TMS_Droplet	TMS_Droplet.h5ad	tms_droplet.cov	mouse	4057	245389
+dataset	SEA_AD	combined_healthy_filtered.h5ad	combined_healthy_filtered.cov	human	19565	168478
+dataset	Soskic	soskic_100k.h5ad	soskic.cov	human	1722	651650
+dataset	Nathan	raw.h5ad	raw.cov	human	6094	500089
+dataset	Cano_Gamez	obj_raw.h5ad	canogamez.cov	human	1159	43112
+dataset	Braun	human_dev_layers_100k.h5ad	human_dev_layers_100k.cov	human	3596	100000
+#	gene_sets / annotations
+archive	GS_files_75.zip	->	gs_split/ (75 MAGMA gene sets, one file per trait)	-	-	-
+archive	Microglia_phenotype_genesets.zip	->	microglia/ (HM_gs DAM_gs CRM_gs IRM_gs HLA_gs)	-	-	-
+archive	T_cell_phenotype_genesets.zip	->	t_cell_pheno/ (52 T-cell phenotype signatures)	-	-	-
+file	genet_cor.csv	->	LDSC genetic-correlation (rg) matrix (74x74)	-	-	-
+files	*.sumstats.gz	->	sumstats/ (75 LDSC-format GWAS summary statistics: SNP A1 A2 Z N)	-	-	-

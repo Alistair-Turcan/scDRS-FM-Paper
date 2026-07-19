@@ -1,0 +1,9 @@
+{
+  "rc": 0,
+  "wall_s": 201.71,
+  "n_traits": 2,
+  "peak_rss_gb": 5.127,
+  "peak_rss_kb": 5376340,
+  "n_cells": 10000,
+  "note": "one-time MAGIC/preprocessing dominates peak memory; trait-count independent"
+}

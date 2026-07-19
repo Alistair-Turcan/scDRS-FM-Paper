@@ -1,0 +1,43 @@
+{
+  "_comment": "Downstream .scdrs_ct job matrix for FULL repro (nb01/06/09/10). Two phases: (A) rescore with --include_ctrl_score where marginal_score_full.gz missing; (B) downstream_group_analysis -> .scdrs_ct.<biocol>. 'variant' magic=scDRS-FM, none=standard-scDRS baseline. file_suffix per nb convention.",
+  "rescore_jobs": [
+    {"id": "tms_facs_magic_ctrl",      "ds": "TMS_FACS",   "sp": "mouse", "gs": "gs_split",     "imp": "magic", "raw": true,  "traits": null, "note": "nb06 scDRS-FM; had magic no-ctrl -> re-run with ctrl"},
+    {"id": "tms_facs_none_ctrl",       "ds": "TMS_FACS",   "sp": "mouse", "gs": "gs_split",     "imp": "none",  "raw": true,  "traits": null, "note": "nb01+nb06 baseline scDRS(none) - NEW"},
+    {"id": "soskic_immune_magic_ctrl", "ds": "Soskic",     "sp": "human", "gs": "gs_split",     "imp": "magic", "raw": true,  "traits": "IMMUNE15", "note": "nb09 FM immune; re-run ctrl"},
+    {"id": "soskic_immune_none_ctrl",  "ds": "Soskic",     "sp": "human", "gs": "gs_split",     "imp": "none",  "raw": true,  "traits": "IMMUNE15", "note": "nb09 baseline immune - NEW"},
+    {"id": "soskic_tcell_magic_ctrl",  "ds": "Soskic",     "sp": "human", "gs": "t_cell_pheno", "imp": "magic", "raw": true,  "traits": null, "note": "nb09 FM phenotype; re-run ctrl"},
+    {"id": "soskic_tcell_none_ctrl",   "ds": "Soskic",     "sp": "human", "gs": "t_cell_pheno", "imp": "none",  "raw": true,  "traits": null, "note": "nb09 baseline phenotype - NEW"},
+    {"id": "nathan_tcell_magic_ctrl",  "ds": "Nathan",     "sp": "human", "gs": "t_cell_pheno", "imp": "magic", "raw": true,  "traits": null, "note": "nb09 FM phenotype; re-run ctrl (immune already has ctrl)"},
+    {"id": "canogamez_tcell_magic_ctrl","ds": "Cano_Gamez","sp": "human", "gs": "t_cell_pheno", "imp": "magic", "raw": true,  "traits": null, "note": "nb09 FM phenotype; re-run ctrl (immune already has ctrl)"},
+    {"id": "sea_ad_brain_magic_ctrl",  "ds": "SEA_AD",     "sp": "human", "gs": "gs_split",     "imp": "magic", "raw": false, "traits": "BRAIN8", "note": "nb10 FM brain; re-run ctrl"},
+    {"id": "sea_ad_brain_none_ctrl",   "ds": "SEA_AD",     "sp": "human", "gs": "gs_split",     "imp": "none",  "raw": false, "traits": "BRAIN8", "note": "nb10 baseline brain - NEW"},
+    {"id": "sea_ad_micro_magic_ctrl",  "ds": "SEA_AD",     "sp": "human", "gs": "microglia",    "imp": "magic", "raw": false, "traits": null, "note": "nb10 FM microglia; re-run ctrl"},
+    {"id": "sea_ad_micro_none_ctrl",   "ds": "SEA_AD",     "sp": "human", "gs": "microglia",    "imp": "none",  "raw": false, "traits": null, "note": "nb10 baseline microglia - NEW"}
+  ],
+  "already_have_full": [
+    {"id": "nathan_immune",    "note": "ctrl=True already -> full present. downstream only."},
+    {"id": "canogamez_immune", "note": "ctrl=True already -> full present. downstream only."},
+    {"id": "braun_micro",      "note": "ctrl=True already -> full present. downstream only."}
+  ],
+  "downstream_jobs": [
+    {"result_dir": "tms_facs_magic_ctrl",      "ds": "TMS_FACS",   "biocol": "cell_ontology_class", "suffix": ".scdrs_ct.{biocol}", "consumer": "nb06 scDRS-FM"},
+    {"result_dir": "tms_facs_none_ctrl",       "ds": "TMS_FACS",   "biocol": "cell_ontology_class", "suffix": ".scdrs_ct.{biocol}", "consumer": "nb01 + nb06 baseline"},
+    {"result_dir": "soskic_immune_magic_ctrl", "ds": "Soskic",     "biocol": "Cell_population",     "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 FM"},
+    {"result_dir": "soskic_immune_none_ctrl",  "ds": "Soskic",     "biocol": "Cell_population",     "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 baseline"},
+    {"result_dir": "soskic_tcell_magic_ctrl",  "ds": "Soskic",     "biocol": "Cell_population",     "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 FM phenotype"},
+    {"result_dir": "soskic_tcell_none_ctrl",   "ds": "Soskic",     "biocol": "Cell_population",     "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 baseline phenotype"},
+    {"result_dir": "nathan_immune",            "ds": "Nathan",     "biocol": "cluster_name",        "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 FM"},
+    {"result_dir": "nathan_tcell_magic_ctrl",  "ds": "Nathan",     "biocol": "cluster_name",        "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 FM phenotype"},
+    {"result_dir": "canogamez_immune",         "ds": "Cano_Gamez", "biocol": "cluster.id",          "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 FM"},
+    {"result_dir": "canogamez_tcell_magic_ctrl","ds": "Cano_Gamez","biocol": "cluster.id",          "suffix": ".marginal_score.gz.scdrs_ct.{biocol}", "consumer": "nb09 FM phenotype"},
+    {"result_dir": "sea_ad_brain_magic_ctrl",  "ds": "SEA_AD",     "biocol": "Subclass",            "suffix": ".scdrs_ct.{biocol}", "consumer": "nb10 FM"},
+    {"result_dir": "sea_ad_brain_none_ctrl",   "ds": "SEA_AD",     "biocol": "Subclass",            "suffix": ".scdrs_ct.{biocol}", "consumer": "nb10 baseline"},
+    {"result_dir": "sea_ad_micro_magic_ctrl",  "ds": "SEA_AD",     "biocol": "Subclass",            "suffix": ".scdrs_ct.{biocol}", "consumer": "nb10 FM microglia"},
+    {"result_dir": "sea_ad_micro_none_ctrl",   "ds": "SEA_AD",     "biocol": "Subclass",            "suffix": ".scdrs_ct.{biocol}", "consumer": "nb10 baseline microglia"},
+    {"result_dir": "braun_micro",              "ds": "Braun",      "biocol": "CellClass",           "suffix": ".scdrs_ct.{biocol}", "consumer": "nb10 FM Braun"}
+  ],
+  "trait_groups": {
+    "IMMUNE15": ["PASS_CD_deLange2017","PASS_Celiac","PASS_IBD_deLange2017","PASS_Lupus","PASS_Multiple_sclerosis","PASS_Primary_biliary_cirrhosis","PASS_Rheumatoid_Arthritis","PASS_Type_1_Diabetes","PASS_UC_deLange2017","UKB_460K.disease_AID_ALL","UKB_460K.body_HEIGHTz","UKB_460K.disease_HYPOTHYROIDISM_SELF_REP","UKB_460K.disease_RESPIRATORY_ENT","UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED","UKB_460K.disease_ASTHMA_DIAGNOSED"],
+    "BRAIN8": ["PASS_Parkinsons23andMe_Corces2020","PASS_Alzheimers_Jansen2019","PASS_ADHD_Demontis2018","PASS_BIP_Mullins2021","PASS_Intelligence_SavageJansen2018","PASS_Schizophrenia_Pardinas2018","PASS_MDD_Howard2019","UKB_460K.mental_NEUROTICISM"]
+  }
+}

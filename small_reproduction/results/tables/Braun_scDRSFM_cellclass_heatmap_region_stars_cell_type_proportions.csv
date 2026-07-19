@@ -1,0 +1,85 @@
+trait_order,cell_type_order,trait,trait_label,cell_type,cell_type_label,cell_type_total_cells,marginal_cell_type_proportion,conditional_cell_type_proportion,conditional_proportion_displayed,conditional_passes_display_threshold,star_marginal_cell_type_proportion,marginal_star_displayed,star_conditional_cell_type_proportion,conditional_star_displayed,independent_signals_passing_annotation_threshold,independent_signal_annotation_displayed,display_threshold,star_threshold,annotation_threshold,display_inclusion_rule,star_inclusion_rule,annotation_inclusion_rule
+1,1,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Neuron',b'Neuron',3389,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,2,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Radial glia',b'Radial glia',3042,0.009204470742932281,0.0023011176857330702,0.0,False,0.09375,True,0.03125,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,3,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Neuroblast',b'Neuroblast',1723,0.0005803830528148578,0.0,0.0,False,0.005,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,4,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Glioblast',b'Glioblast',840,0.23214285714285715,0.08333333333333333,0.08333333333333333,True,0.8108108108108109,True,0.26153846153846155,True,2,2,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,5,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Neuronal IPC',b'Neuronal IPC',685,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,6,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Fibroblast',b'Fibroblast',106,0.9622641509433962,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,7,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Vascular',b'Vascular',84,1.0,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,8,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Immune',b'Immune',41,1.0,1.0,1.0,True,1.0,True,1.0,True,1,1,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,9,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Oligo',b'Oligo',40,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,10,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Erythrocyte',b'Erythrocyte',36,1.0,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,11,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Placodes',b'Placodes',8,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+1,12,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),b'Neural crest',b'Neural crest',6,0.5,0.0,0.0,False,0.5,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,1,PASS_ADHD_Demontis2018,ADHD,b'Neuron',b'Neuron',3389,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,2,PASS_ADHD_Demontis2018,ADHD,b'Radial glia',b'Radial glia',3042,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,3,PASS_ADHD_Demontis2018,ADHD,b'Neuroblast',b'Neuroblast',1723,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,4,PASS_ADHD_Demontis2018,ADHD,b'Glioblast',b'Glioblast',840,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,5,PASS_ADHD_Demontis2018,ADHD,b'Neuronal IPC',b'Neuronal IPC',685,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,6,PASS_ADHD_Demontis2018,ADHD,b'Fibroblast',b'Fibroblast',106,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,7,PASS_ADHD_Demontis2018,ADHD,b'Vascular',b'Vascular',84,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,8,PASS_ADHD_Demontis2018,ADHD,b'Immune',b'Immune',41,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,9,PASS_ADHD_Demontis2018,ADHD,b'Oligo',b'Oligo',40,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,10,PASS_ADHD_Demontis2018,ADHD,b'Erythrocyte',b'Erythrocyte',36,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,11,PASS_ADHD_Demontis2018,ADHD,b'Placodes',b'Placodes',8,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+2,12,PASS_ADHD_Demontis2018,ADHD,b'Neural crest',b'Neural crest',6,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,1,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Neuron',b'Neuron',3389,0.7695485393921511,0.12806137503688403,0.12806137503688403,True,0.9328859060402684,True,0.5167785234899329,True,"1,2","1,2",0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,2,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Radial glia',b'Radial glia',3042,0.001643655489809336,0.0,0.0,False,0.011494252873563218,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,3,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Neuroblast',b'Neuroblast',1723,0.3476494486360998,0.01567034242600116,0.01567034242600116,True,0.648936170212766,True,0.05319148936170213,True,2,2,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,4,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Glioblast',b'Glioblast',840,0.0011904761904761906,0.0,0.0,False,0.0040650406504065045,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,5,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Neuronal IPC',b'Neuronal IPC',685,0.02335766423357664,0.0,0.0,False,0.07142857142857142,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,6,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Fibroblast',b'Fibroblast',106,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,7,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Vascular',b'Vascular',84,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,8,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Immune',b'Immune',41,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,9,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Oligo',b'Oligo',40,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,10,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Erythrocyte',b'Erythrocyte',36,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,11,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Placodes',b'Placodes',8,0.875,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+3,12,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),b'Neural crest',b'Neural crest',6,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,1,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Neuron',b'Neuron',3389,0.7671879610504574,0.04426084390675716,0.04426084390675716,True,0.9731543624161074,True,0.3422818791946309,True,1,1,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,2,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Radial glia',b'Radial glia',3042,0.003287310979618672,0.0,0.0,False,0.011494252873563218,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,3,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Neuroblast',b'Neuroblast',1723,0.4759141033081834,0.005803830528148578,0.0,False,0.8936170212765957,True,0.0425531914893617,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,4,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Glioblast',b'Glioblast',840,0.0011904761904761906,0.0,0.0,False,0.0040650406504065045,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,5,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Neuronal IPC',b'Neuronal IPC',685,0.021897810218978103,0.0,0.0,False,0.14285714285714285,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,6,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Fibroblast',b'Fibroblast',106,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,7,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Vascular',b'Vascular',84,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,8,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Immune',b'Immune',41,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,9,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Oligo',b'Oligo',40,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,10,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Erythrocyte',b'Erythrocyte',36,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,11,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Placodes',b'Placodes',8,1.0,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+4,12,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),b'Neural crest',b'Neural crest',6,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,1,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Neuron',b'Neuron',3389,0.5252286810268516,0.0472115668338743,0.0472115668338743,True,0.9932885906040269,True,0.24161073825503357,True,1,1,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,2,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Radial glia',b'Radial glia',3042,0.0039447731755424065,0.0,0.0,False,0.041666666666666664,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,3,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Neuroblast',b'Neuroblast',1723,0.2907719094602438,0.012768427161926872,0.012768427161926872,True,0.9468085106382979,True,0.07017543859649122,True,1,1,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,4,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Glioblast',b'Glioblast',840,0.002380952380952381,0.0,0.0,False,0.008130081300813009,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,5,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Neuronal IPC',b'Neuronal IPC',685,0.026277372262773723,0.0,0.0,False,0.2857142857142857,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,6,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Fibroblast',b'Fibroblast',106,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,7,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Vascular',b'Vascular',84,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,8,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Immune',b'Immune',41,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,9,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Oligo',b'Oligo',40,0.725,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,10,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Erythrocyte',b'Erythrocyte',36,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,11,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Placodes',b'Placodes',8,0.5,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+5,12,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),b'Neural crest',b'Neural crest',6,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,1,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Neuron',b'Neuron',3389,0.7087636470935379,0.04426084390675716,0.04426084390675716,True,0.9731543624161074,True,0.348993288590604,True,1,1,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,2,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Radial glia',b'Radial glia',3042,0.0029585798816568047,0.0,0.0,False,0.020833333333333332,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,3,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Neuroblast',b'Neuroblast',1723,0.3377829367382472,0.019152640742890307,0.019152640742890307,True,0.8829787234042553,True,0.2127659574468085,True,1,1,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,4,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Glioblast',b'Glioblast',840,0.002380952380952381,0.0,0.0,False,0.008130081300813009,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,5,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Neuronal IPC',b'Neuronal IPC',685,0.014598540145985401,0.0,0.0,False,0.21428571428571427,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,6,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Fibroblast',b'Fibroblast',106,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,7,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Vascular',b'Vascular',84,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,8,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Immune',b'Immune',41,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,9,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Oligo',b'Oligo',40,0.65,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,10,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Erythrocyte',b'Erythrocyte',36,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,11,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Placodes',b'Placodes',8,1.0,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+6,12,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),b'Neural crest',b'Neural crest',6,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,1,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Neuron',b'Neuron',3389,0.6143405134257893,0.0,0.0,False,0.9664429530201343,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,2,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Radial glia',b'Radial glia',3042,0.0029585798816568047,0.0,0.0,False,0.014925373134328358,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,3,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Neuroblast',b'Neuroblast',1723,0.338943702843877,0.0,0.0,False,0.8936170212765957,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,4,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Glioblast',b'Glioblast',840,0.002380952380952381,0.0,0.0,False,0.008130081300813009,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,5,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Neuronal IPC',b'Neuronal IPC',685,0.013138686131386862,0.0,0.0,False,0.21428571428571427,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,6,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Fibroblast',b'Fibroblast',106,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,7,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Vascular',b'Vascular',84,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,8,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Immune',b'Immune',41,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,9,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Oligo',b'Oligo',40,0.55,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,10,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Erythrocyte',b'Erythrocyte',36,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,11,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Placodes',b'Placodes',8,1.0,0.0,0.0,False,1.0,True,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05
+7,12,UKB_460K.mental_NEUROTICISM,Neuroticism,b'Neural crest',b'Neural crest',6,0.0,0.0,0.0,False,0.0,False,0.0,False,,,0.01,0.05,0.05,> 0.01,> 0.05,> 0.05

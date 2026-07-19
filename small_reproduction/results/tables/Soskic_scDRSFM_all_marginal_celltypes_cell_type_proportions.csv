@@ -1,0 +1,191 @@
+trait_order,cell_type_order,trait,trait_label,cell_type,cell_type_label,cell_type_total_cells,marginal_cell_type_proportion,marginal_passes_heatmap_inclusion,conditional_cell_type_proportion,conditional_proportion_displayed,conditional_passes_heatmap_inclusion,independent_signals_passing_heatmap_inclusion,independent_signal_annotation_displayed,marginal_threshold,conditional_threshold,marginal_inclusion_rule,conditional_inclusion_rule
+1,1,PASS_CD_deLange2017,Crohn’s Disease (CD),TN 40h,TN 40h,986,0.6105476673427992,True,0.0030425963488843813,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+1,2,PASS_CD_deLange2017,Crohn’s Disease (CD),TN 16h,TN 16h,803,0.9925280199252802,True,0.021170610211706103,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+1,3,PASS_CD_deLange2017,Crohn’s Disease (CD),TCM 16h,TCM 16h,591,0.9898477157360406,True,0.06429780033840947,0.06429780033840947,True,4,4,0.05,0.05,> 0.05,> 0.05
+1,4,PASS_CD_deLange2017,Crohn’s Disease (CD),TCM 40h,TCM 40h,336,0.6101190476190477,True,0.002976190476190476,0.0,False,4,,0.05,0.05,> 0.05,> 0.05
+1,5,PASS_CD_deLange2017,Crohn’s Disease (CD),TEM 16h,TEM 16h,283,1.0,True,0.43462897526501765,0.43462897526501765,True,"1,2,3,4","1,2,3,4",0.05,0.05,> 0.05,> 0.05
+1,6,PASS_CD_deLange2017,Crohn’s Disease (CD),TEM 40h,TEM 40h,270,0.8666666666666667,True,0.04814814814814815,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+1,7,PASS_CD_deLange2017,Crohn’s Disease (CD),TN IFN 40h,TN IFN 40h,195,0.3435897435897436,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,8,PASS_CD_deLange2017,Crohn’s Disease (CD),TEM LA,TEM LA,186,0.10752688172043011,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,9,PASS_CD_deLange2017,Crohn’s Disease (CD),TN cycling 40h,TN cycling 40h,130,0.6384615384615384,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,10,PASS_CD_deLange2017,Crohn’s Disease (CD),TN NFKB,TN NFKB,106,0.8962264150943396,True,0.46226415094339623,0.46226415094339623,True,1,1,0.05,0.05,> 0.05,> 0.05
+1,11,PASS_CD_deLange2017,Crohn’s Disease (CD),TM ER-stress 40h,TM ER-stress 40h,91,0.07692307692307693,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,12,PASS_CD_deLange2017,Crohn’s Disease (CD),nTreg 40h,nTreg 40h,79,0.7974683544303798,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,13,PASS_CD_deLange2017,Crohn’s Disease (CD),nTreg 16h,nTreg 16h,79,0.9873417721518988,True,0.012658227848101266,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+1,14,PASS_CD_deLange2017,Crohn’s Disease (CD),TEM HLA+ 40h,TEM HLA+ 40h,56,0.6785714285714286,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,15,PASS_CD_deLange2017,Crohn’s Disease (CD),TEMRA 16h,TEMRA 16h,48,0.2916666666666667,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,16,PASS_CD_deLange2017,Crohn’s Disease (CD),TEMRA 40h,TEMRA 40h,44,0.29545454545454547,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,17,PASS_CD_deLange2017,Crohn’s Disease (CD),TN2 40h,TN2 40h,27,0.2962962962962963,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,18,PASS_CD_deLange2017,Crohn’s Disease (CD),TN IFN 16h,TN IFN 16h,25,1.0,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+1,19,PASS_CD_deLange2017,Crohn’s Disease (CD),HSP 16h,HSP 16h,25,1.0,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+2,1,PASS_UC_deLange2017,Ulcerative Colitis (UC),TN 40h,TN 40h,986,0.12880324543610547,True,0.056795131845841784,0.056795131845841784,True,,1,0.05,0.05,> 0.05,> 0.05
+2,2,PASS_UC_deLange2017,Ulcerative Colitis (UC),TN 16h,TN 16h,803,0.6301369863013698,True,0.3686176836861768,0.3686176836861768,True,,1,0.05,0.05,> 0.05,> 0.05
+2,3,PASS_UC_deLange2017,Ulcerative Colitis (UC),TCM 16h,TCM 16h,591,0.9153976311336718,True,0.751269035532995,0.751269035532995,True,,1,0.05,0.05,> 0.05,> 0.05
+2,4,PASS_UC_deLange2017,Ulcerative Colitis (UC),TCM 40h,TCM 40h,336,0.07142857142857142,True,0.02976190476190476,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+2,5,PASS_UC_deLange2017,Ulcerative Colitis (UC),TEM 16h,TEM 16h,283,0.9823321554770318,True,0.9434628975265018,0.9434628975265018,True,,1,0.05,0.05,> 0.05,> 0.05
+2,6,PASS_UC_deLange2017,Ulcerative Colitis (UC),TEM 40h,TEM 40h,270,0.16296296296296298,True,0.07037037037037037,0.07037037037037037,True,,1,0.05,0.05,> 0.05,> 0.05
+2,7,PASS_UC_deLange2017,Ulcerative Colitis (UC),TN IFN 40h,TN IFN 40h,195,0.1641025641025641,True,0.1076923076923077,0.1076923076923077,True,,1,0.05,0.05,> 0.05,> 0.05
+2,8,PASS_UC_deLange2017,Ulcerative Colitis (UC),TEM LA,TEM LA,186,0.03225806451612903,False,0.005376344086021506,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+2,9,PASS_UC_deLange2017,Ulcerative Colitis (UC),TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+2,10,PASS_UC_deLange2017,Ulcerative Colitis (UC),TN NFKB,TN NFKB,106,0.8490566037735849,True,0.8207547169811321,0.8207547169811321,True,,1,0.05,0.05,> 0.05,> 0.05
+2,11,PASS_UC_deLange2017,Ulcerative Colitis (UC),TM ER-stress 40h,TM ER-stress 40h,91,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+2,12,PASS_UC_deLange2017,Ulcerative Colitis (UC),nTreg 40h,nTreg 40h,79,0.4936708860759494,True,0.21518987341772153,0.21518987341772153,True,,1,0.05,0.05,> 0.05,> 0.05
+2,13,PASS_UC_deLange2017,Ulcerative Colitis (UC),nTreg 16h,nTreg 16h,79,0.9620253164556962,True,0.8607594936708861,0.8607594936708861,True,,1,0.05,0.05,> 0.05,> 0.05
+2,14,PASS_UC_deLange2017,Ulcerative Colitis (UC),TEM HLA+ 40h,TEM HLA+ 40h,56,0.125,True,0.05357142857142857,0.05357142857142857,True,,1,0.05,0.05,> 0.05,> 0.05
+2,15,PASS_UC_deLange2017,Ulcerative Colitis (UC),TEMRA 16h,TEMRA 16h,48,0.10416666666666667,True,0.020833333333333332,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+2,16,PASS_UC_deLange2017,Ulcerative Colitis (UC),TEMRA 40h,TEMRA 40h,44,0.022727272727272728,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+2,17,PASS_UC_deLange2017,Ulcerative Colitis (UC),TN2 40h,TN2 40h,27,0.2222222222222222,True,0.14814814814814814,0.14814814814814814,True,,1,0.05,0.05,> 0.05,> 0.05
+2,18,PASS_UC_deLange2017,Ulcerative Colitis (UC),TN IFN 16h,TN IFN 16h,25,0.64,True,0.52,0.52,True,,1,0.05,0.05,> 0.05,> 0.05
+2,19,PASS_UC_deLange2017,Ulcerative Colitis (UC),HSP 16h,HSP 16h,25,0.96,True,0.8,0.8,True,,1,0.05,0.05,> 0.05,> 0.05
+3,1,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TN 40h,TN 40h,986,0.5973630831643002,True,0.002028397565922921,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+3,2,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TN 16h,TN 16h,803,0.9887920298879203,True,0.009962640099626401,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+3,3,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TCM 16h,TCM 16h,591,0.9847715736040609,True,0.06937394247038917,0.06937394247038917,True,2,2,0.05,0.05,> 0.05,> 0.05
+3,4,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TCM 40h,TCM 40h,336,0.41964285714285715,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,5,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TEM 16h,TEM 16h,283,1.0,True,0.31802120141342755,0.31802120141342755,True,"1,2,3","1,2,3",0.05,0.05,> 0.05,> 0.05
+3,6,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TEM 40h,TEM 40h,270,0.7333333333333333,True,0.003703703703703704,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+3,7,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TN IFN 40h,TN IFN 40h,195,0.3282051282051282,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,8,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TEM LA,TEM LA,186,0.06451612903225806,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,9,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TN cycling 40h,TN cycling 40h,130,0.46923076923076923,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,10,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TN NFKB,TN NFKB,106,0.8773584905660378,True,0.07547169811320754,0.07547169811320754,True,2,2,0.05,0.05,> 0.05,> 0.05
+3,11,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TM ER-stress 40h,TM ER-stress 40h,91,0.02197802197802198,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,12,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),nTreg 40h,nTreg 40h,79,0.7341772151898734,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,13,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),nTreg 16h,nTreg 16h,79,0.9746835443037974,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,14,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TEM HLA+ 40h,TEM HLA+ 40h,56,0.5714285714285714,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,15,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TEMRA 16h,TEMRA 16h,48,0.1875,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,16,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TEMRA 40h,TEMRA 40h,44,0.20454545454545456,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,17,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TN2 40h,TN2 40h,27,0.25925925925925924,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,18,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),TN IFN 16h,TN IFN 16h,25,1.0,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+3,19,PASS_IBD_deLange2017,Inflammatory Bowel Disease (IBD),HSP 16h,HSP 16h,25,1.0,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,1,PASS_Celiac,Celiac Disease (CeD),TN 40h,TN 40h,986,0.004056795131845842,False,0.0030425963488843813,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+4,2,PASS_Celiac,Celiac Disease (CeD),TN 16h,TN 16h,803,0.052303860523038606,True,0.043586550435865505,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+4,3,PASS_Celiac,Celiac Disease (CeD),TCM 16h,TCM 16h,591,0.13874788494077833,True,0.1218274111675127,0.1218274111675127,True,1,1,0.05,0.05,> 0.05,> 0.05
+4,4,PASS_Celiac,Celiac Disease (CeD),TCM 40h,TCM 40h,336,0.002976190476190476,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,5,PASS_Celiac,Celiac Disease (CeD),TEM 16h,TEM 16h,283,0.26148409893992935,True,0.17314487632508835,0.17314487632508835,True,"1,2","1,2",0.05,0.05,> 0.05,> 0.05
+4,6,PASS_Celiac,Celiac Disease (CeD),TEM 40h,TEM 40h,270,0.025925925925925925,False,0.018518518518518517,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+4,7,PASS_Celiac,Celiac Disease (CeD),TN IFN 40h,TN IFN 40h,195,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,8,PASS_Celiac,Celiac Disease (CeD),TEM LA,TEM LA,186,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,9,PASS_Celiac,Celiac Disease (CeD),TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,10,PASS_Celiac,Celiac Disease (CeD),TN NFKB,TN NFKB,106,0.7924528301886793,True,0.7358490566037735,0.7358490566037735,True,1,1,0.05,0.05,> 0.05,> 0.05
+4,11,PASS_Celiac,Celiac Disease (CeD),TM ER-stress 40h,TM ER-stress 40h,91,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,12,PASS_Celiac,Celiac Disease (CeD),nTreg 40h,nTreg 40h,79,0.012658227848101266,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,13,PASS_Celiac,Celiac Disease (CeD),nTreg 16h,nTreg 16h,79,0.11392405063291139,True,0.02531645569620253,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+4,14,PASS_Celiac,Celiac Disease (CeD),TEM HLA+ 40h,TEM HLA+ 40h,56,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,15,PASS_Celiac,Celiac Disease (CeD),TEMRA 16h,TEMRA 16h,48,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,16,PASS_Celiac,Celiac Disease (CeD),TEMRA 40h,TEMRA 40h,44,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,17,PASS_Celiac,Celiac Disease (CeD),TN2 40h,TN2 40h,27,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+4,18,PASS_Celiac,Celiac Disease (CeD),TN IFN 16h,TN IFN 16h,25,0.08,True,0.04,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+4,19,PASS_Celiac,Celiac Disease (CeD),HSP 16h,HSP 16h,25,0.6,True,0.6,0.6,True,1,1,0.05,0.05,> 0.05,> 0.05
+5,1,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TN 40h,TN 40h,986,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,2,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TN 16h,TN 16h,803,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,3,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TCM 16h,TCM 16h,591,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,4,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TCM 40h,TCM 40h,336,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,5,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TEM 16h,TEM 16h,283,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,6,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TEM 40h,TEM 40h,270,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,7,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TN IFN 40h,TN IFN 40h,195,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,8,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TEM LA,TEM LA,186,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,9,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,10,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TN NFKB,TN NFKB,106,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,11,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TM ER-stress 40h,TM ER-stress 40h,91,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,12,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),nTreg 40h,nTreg 40h,79,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,13,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),nTreg 16h,nTreg 16h,79,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,14,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TEM HLA+ 40h,TEM HLA+ 40h,56,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,15,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TEMRA 16h,TEMRA 16h,48,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,16,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TEMRA 40h,TEMRA 40h,44,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,17,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TN2 40h,TN2 40h,27,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,18,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),TN IFN 16h,TN IFN 16h,25,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+5,19,PASS_Rheumatoid_Arthritis,Rheumatoid Arthritis (RA),HSP 16h,HSP 16h,25,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,1,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TN 40h,TN 40h,986,0.017241379310344827,False,0.0030425963488843813,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+6,2,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TN 16h,TN 16h,803,0.009962640099626401,False,0.0037359900373599006,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+6,3,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TCM 16h,TCM 16h,591,0.07614213197969544,True,0.011844331641285956,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+6,4,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TCM 40h,TCM 40h,336,0.023809523809523808,False,0.002976190476190476,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+6,5,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TEM 16h,TEM 16h,283,0.21908127208480566,True,0.10600706713780919,0.10600706713780919,True,1,1,0.05,0.05,> 0.05,> 0.05
+6,6,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TEM 40h,TEM 40h,270,0.05555555555555555,True,0.025925925925925925,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+6,7,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TN IFN 40h,TN IFN 40h,195,0.005128205128205128,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,8,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TEM LA,TEM LA,186,0.016129032258064516,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,9,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,10,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TN NFKB,TN NFKB,106,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,11,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TM ER-stress 40h,TM ER-stress 40h,91,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,12,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),nTreg 40h,nTreg 40h,79,0.5063291139240507,True,0.24050632911392406,0.24050632911392406,True,2,2,0.05,0.05,> 0.05,> 0.05
+6,13,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),nTreg 16h,nTreg 16h,79,0.5443037974683544,True,0.3291139240506329,0.3291139240506329,True,"1,2","1,2",0.05,0.05,> 0.05,> 0.05
+6,14,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TEM HLA+ 40h,TEM HLA+ 40h,56,0.14285714285714285,True,0.03571428571428571,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+6,15,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TEMRA 16h,TEMRA 16h,48,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,16,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TEMRA 40h,TEMRA 40h,44,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,17,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TN2 40h,TN2 40h,27,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,18,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),TN IFN 16h,TN IFN 16h,25,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+6,19,UKB_460K.disease_AID_ALL,Autoimmune Traits (AIT),HSP 16h,HSP 16h,25,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,1,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TN 40h,TN 40h,986,0.04158215010141988,False,0.0010141987829614604,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+7,2,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TN 16h,TN 16h,803,0.36612702366127026,True,0.0136986301369863,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+7,3,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TCM 16h,TCM 16h,591,0.805414551607445,True,0.05922165820642978,0.05922165820642978,True,1,1,0.05,0.05,> 0.05,> 0.05
+7,4,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TCM 40h,TCM 40h,336,0.03571428571428571,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,5,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TEM 16h,TEM 16h,283,0.9893992932862191,True,0.15547703180212014,0.15547703180212014,True,1,1,0.05,0.05,> 0.05,> 0.05
+7,6,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TEM 40h,TEM 40h,270,0.2,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,7,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TN IFN 40h,TN IFN 40h,195,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,8,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TEM LA,TEM LA,186,0.005376344086021506,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,9,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,10,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TN NFKB,TN NFKB,106,0.8207547169811321,True,0.09433962264150944,0.09433962264150944,True,1,1,0.05,0.05,> 0.05,> 0.05
+7,11,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TM ER-stress 40h,TM ER-stress 40h,91,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,12,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,nTreg 40h,nTreg 40h,79,0.20253164556962025,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,13,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,nTreg 16h,nTreg 16h,79,0.8481012658227848,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,14,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TEM HLA+ 40h,TEM HLA+ 40h,56,0.125,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,15,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TEMRA 16h,TEMRA 16h,48,0.16666666666666666,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,16,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TEMRA 40h,TEMRA 40h,44,0.022727272727272728,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,17,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TN2 40h,TN2 40h,27,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,18,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,TN IFN 16h,TN IFN 16h,25,0.36,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+7,19,UKB_460K.disease_ASTHMA_DIAGNOSED,Asthma,HSP 16h,HSP 16h,25,0.96,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,1,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TN 40h,TN 40h,986,0.12778904665314403,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,2,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TN 16h,TN 16h,803,0.8655043586550436,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,3,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TCM 16h,TCM 16h,591,0.9678510998307953,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,4,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TCM 40h,TCM 40h,336,0.06845238095238096,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,5,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TEM 16h,TEM 16h,283,0.9964664310954063,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,6,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TEM 40h,TEM 40h,270,0.24814814814814815,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,7,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TN IFN 40h,TN IFN 40h,195,0.046153846153846156,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,8,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TEM LA,TEM LA,186,0.021505376344086023,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,9,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,10,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TN NFKB,TN NFKB,106,0.8490566037735849,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,11,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TM ER-stress 40h,TM ER-stress 40h,91,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,12,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),nTreg 40h,nTreg 40h,79,0.5443037974683544,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,13,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),nTreg 16h,nTreg 16h,79,0.9367088607594937,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,14,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TEM HLA+ 40h,TEM HLA+ 40h,56,0.19642857142857142,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,15,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TEMRA 16h,TEMRA 16h,48,0.16666666666666666,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,16,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TEMRA 40h,TEMRA 40h,44,0.022727272727272728,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,17,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TN2 40h,TN2 40h,27,0.1111111111111111,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,18,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),TN IFN 16h,TN IFN 16h,25,0.76,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+8,19,UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED,Allergic Eczema (ECZ),HSP 16h,HSP 16h,25,1.0,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,1,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TN 40h,TN 40h,986,0.1663286004056795,True,0.002028397565922921,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+9,2,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TN 16h,TN 16h,803,0.9539227895392279,True,0.0112079701120797,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+9,3,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TCM 16h,TCM 16h,591,0.9695431472081218,True,0.030456852791878174,0.0,False,2,,0.05,0.05,> 0.05,> 0.05
+9,4,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TCM 40h,TCM 40h,336,0.13392857142857142,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,5,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TEM 16h,TEM 16h,283,0.9929328621908127,True,0.21908127208480566,0.21908127208480566,True,"1,2","1,2",0.05,0.05,> 0.05,> 0.05
+9,6,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TEM 40h,TEM 40h,270,0.5074074074074074,True,0.025925925925925925,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+9,7,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TN IFN 40h,TN IFN 40h,195,0.08205128205128205,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,8,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TEM LA,TEM LA,186,0.026881720430107527,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,9,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,10,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TN NFKB,TN NFKB,106,0.8301886792452831,True,0.05660377358490566,0.05660377358490566,True,2,2,0.05,0.05,> 0.05,> 0.05
+9,11,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TM ER-stress 40h,TM ER-stress 40h,91,0.01098901098901099,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,12,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),nTreg 40h,nTreg 40h,79,0.43037974683544306,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,13,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),nTreg 16h,nTreg 16h,79,0.9367088607594937,True,0.012658227848101266,0.0,False,1,,0.05,0.05,> 0.05,> 0.05
+9,14,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TEM HLA+ 40h,TEM HLA+ 40h,56,0.3392857142857143,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,15,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TEMRA 16h,TEMRA 16h,48,0.22916666666666666,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,16,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TEMRA 40h,TEMRA 40h,44,0.13636363636363635,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,17,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TN2 40h,TN2 40h,27,0.25925925925925924,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,18,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),TN IFN 16h,TN IFN 16h,25,0.88,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+9,19,UKB_460K.disease_RESPIRATORY_ENT,Respiratory / ENT Disease (RESP-ENT),HSP 16h,HSP 16h,25,1.0,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,1,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TN 40h,TN 40h,986,0.02028397565922921,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,2,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TN 16h,TN 16h,803,0.009962640099626401,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,3,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TCM 16h,TCM 16h,591,0.18274111675126903,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,4,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TCM 40h,TCM 40h,336,0.07142857142857142,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,5,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TEM 16h,TEM 16h,283,0.6713780918727915,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,6,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TEM 40h,TEM 40h,270,0.35185185185185186,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,7,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TN IFN 40h,TN IFN 40h,195,0.005128205128205128,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,8,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TEM LA,TEM LA,186,0.005376344086021506,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,9,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TN cycling 40h,TN cycling 40h,130,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,10,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TN NFKB,TN NFKB,106,0.02830188679245283,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,11,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TM ER-stress 40h,TM ER-stress 40h,91,0.01098901098901099,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,12,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),nTreg 40h,nTreg 40h,79,0.6708860759493671,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,13,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),nTreg 16h,nTreg 16h,79,0.6329113924050633,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,14,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TEM HLA+ 40h,TEM HLA+ 40h,56,0.26785714285714285,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,15,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TEMRA 16h,TEMRA 16h,48,0.14583333333333334,True,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,16,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TEMRA 40h,TEMRA 40h,44,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,17,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TN2 40h,TN2 40h,27,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,18,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),TN IFN 16h,TN IFN 16h,25,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05
+10,19,UKB_460K.disease_HYPOTHYROIDISM_SELF_REP,Hypothyroidism (HYPO),HSP 16h,HSP 16h,25,0.0,False,0.0,0.0,False,,,0.05,0.05,> 0.05,> 0.05

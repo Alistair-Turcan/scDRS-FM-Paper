@@ -1,0 +1,33 @@
+# Optional conda environment for the scDRS-FM 10k-scale reproduction.
+#   conda env create -f environment.yml
+#   conda activate scdrsfm-repro
+#   pip install -e scDRS-FM-main      # install the UNMODIFIED package
+#
+# MAGMA (C++ binary, non-conda) is installed via download/download_magma_reference.sh
+# and is only needed for scripts/12_run_magma_geneanalysis.sh.
+name: scdrsfm-repro
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - scanpy
+  - anndata
+  - leidenalg
+  - python-igraph
+  - jupyter
+  - nbconvert
+  - ipykernel
+  - pip
+  - pip:
+      - scdrs
+      - magic-impute
+      - scprep
+      - gseapy==1.3.0
+      - gprofiler-official

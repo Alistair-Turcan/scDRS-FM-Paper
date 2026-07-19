@@ -1,0 +1,113 @@
+trait_order,cell_type_order,trait,trait_label,cell_type,cell_type_label,cell_type_total_cells,cell_type_proportion,cell_type_proportion_displayed,passes_display_threshold,association_star_displayed,display_threshold,display_inclusion_rule
+1,1,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Endothelial,Endothelial,14,0.0,0.0,False,False,0.01,> 0.01
+1,2,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),OPC,OPC,254,0.0,0.0,False,False,0.01,> 0.01
+1,3,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),L4 IT,L4 IT,1005,0.0,0.0,False,False,0.01,> 0.01
+1,4,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),L5 ET,L5 ET,13,0.0,0.0,False,False,0.01,> 0.01
+1,5,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),L5 IT,L5 IT,869,0.0,0.0,False,False,0.01,> 0.01
+1,6,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),L6 IT,L6 IT,305,0.003278688524590164,0.0,False,False,0.01,> 0.01
+1,7,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),L6 IT Car3,L6 IT Car3,189,0.0,0.0,False,False,0.01,> 0.01
+1,8,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),L6b,L6b,117,0.0,0.0,False,False,0.01,> 0.01
+1,9,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Chandelier,Chandelier,58,0.0,0.0,False,False,0.01,> 0.01
+1,10,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Lamp5,Lamp5,241,0.0,0.0,False,False,0.01,> 0.01
+1,11,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Lamp5 Lhx6,Lamp5 Lhx6,110,0.0,0.0,False,False,0.01,> 0.01
+1,12,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Pvalb,Pvalb,676,0.0,0.0,False,False,0.01,> 0.01
+1,13,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Sncg,Sncg,135,0.0,0.0,False,False,0.01,> 0.01
+1,14,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Sst,Sst,739,0.0,0.0,False,False,0.01,> 0.01
+1,15,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Sst Chodl,Sst Chodl,6,0.0,0.0,False,False,0.01,> 0.01
+1,16,PASS_Alzheimers_Jansen2019,Alzheimer’s Disease (AD),Vip,Vip,623,0.0,0.0,False,False,0.01,> 0.01
+2,1,PASS_ADHD_Demontis2018,ADHD,Endothelial,Endothelial,14,0.07142857142857142,0.07142857142857142,True,True,0.01,> 0.01
+2,2,PASS_ADHD_Demontis2018,ADHD,OPC,OPC,254,0.0,0.0,False,False,0.01,> 0.01
+2,3,PASS_ADHD_Demontis2018,ADHD,L4 IT,L4 IT,1005,0.0009950248756218905,0.0,False,False,0.01,> 0.01
+2,4,PASS_ADHD_Demontis2018,ADHD,L5 ET,L5 ET,13,0.0,0.0,False,False,0.01,> 0.01
+2,5,PASS_ADHD_Demontis2018,ADHD,L5 IT,L5 IT,869,0.0023014959723820483,0.0,False,False,0.01,> 0.01
+2,6,PASS_ADHD_Demontis2018,ADHD,L6 IT,L6 IT,305,0.0,0.0,False,False,0.01,> 0.01
+2,7,PASS_ADHD_Demontis2018,ADHD,L6 IT Car3,L6 IT Car3,189,0.0,0.0,False,False,0.01,> 0.01
+2,8,PASS_ADHD_Demontis2018,ADHD,L6b,L6b,117,0.0,0.0,False,False,0.01,> 0.01
+2,9,PASS_ADHD_Demontis2018,ADHD,Chandelier,Chandelier,58,0.0,0.0,False,False,0.01,> 0.01
+2,10,PASS_ADHD_Demontis2018,ADHD,Lamp5,Lamp5,241,0.0,0.0,False,False,0.01,> 0.01
+2,11,PASS_ADHD_Demontis2018,ADHD,Lamp5 Lhx6,Lamp5 Lhx6,110,0.0,0.0,False,False,0.01,> 0.01
+2,12,PASS_ADHD_Demontis2018,ADHD,Pvalb,Pvalb,676,0.0014792899408284023,0.0,False,False,0.01,> 0.01
+2,13,PASS_ADHD_Demontis2018,ADHD,Sncg,Sncg,135,0.0,0.0,False,False,0.01,> 0.01
+2,14,PASS_ADHD_Demontis2018,ADHD,Sst,Sst,739,0.0,0.0,False,False,0.01,> 0.01
+2,15,PASS_ADHD_Demontis2018,ADHD,Sst Chodl,Sst Chodl,6,0.0,0.0,False,False,0.01,> 0.01
+2,16,PASS_ADHD_Demontis2018,ADHD,Vip,Vip,623,0.0,0.0,False,False,0.01,> 0.01
+3,1,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Endothelial,Endothelial,14,0.0,0.0,False,False,0.01,> 0.01
+3,2,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),OPC,OPC,254,0.0,0.0,False,False,0.01,> 0.01
+3,3,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),L4 IT,L4 IT,1005,0.003980099502487562,0.0,False,False,0.01,> 0.01
+3,4,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),L5 ET,L5 ET,13,0.0,0.0,False,False,0.01,> 0.01
+3,5,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),L5 IT,L5 IT,869,0.0023014959723820483,0.0,False,False,0.01,> 0.01
+3,6,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),L6 IT,L6 IT,305,0.009836065573770493,0.0,False,False,0.01,> 0.01
+3,7,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),L6 IT Car3,L6 IT Car3,189,0.0,0.0,False,False,0.01,> 0.01
+3,8,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),L6b,L6b,117,0.008547008547008548,0.0,False,False,0.01,> 0.01
+3,9,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Chandelier,Chandelier,58,0.0,0.0,False,False,0.01,> 0.01
+3,10,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Lamp5,Lamp5,241,0.02074688796680498,0.02074688796680498,True,False,0.01,> 0.01
+3,11,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Lamp5 Lhx6,Lamp5 Lhx6,110,0.0,0.0,False,False,0.01,> 0.01
+3,12,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Pvalb,Pvalb,676,0.016272189349112426,0.016272189349112426,True,False,0.01,> 0.01
+3,13,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Sncg,Sncg,135,0.007407407407407408,0.0,False,False,0.01,> 0.01
+3,14,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Sst,Sst,739,0.005412719891745603,0.0,False,False,0.01,> 0.01
+3,15,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Sst Chodl,Sst Chodl,6,0.0,0.0,False,False,0.01,> 0.01
+3,16,PASS_BIP_Mullins2021,Bipolar Disorder (BIP),Vip,Vip,623,0.006420545746388443,0.0,False,False,0.01,> 0.01
+4,1,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Endothelial,Endothelial,14,0.0,0.0,False,False,0.01,> 0.01
+4,2,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),OPC,OPC,254,0.003937007874015748,0.0,False,False,0.01,> 0.01
+4,3,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),L4 IT,L4 IT,1005,0.001990049751243781,0.0,False,False,0.01,> 0.01
+4,4,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),L5 ET,L5 ET,13,0.0,0.0,False,False,0.01,> 0.01
+4,5,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),L5 IT,L5 IT,869,0.0034522439585730723,0.0,False,False,0.01,> 0.01
+4,6,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),L6 IT,L6 IT,305,0.003278688524590164,0.0,False,False,0.01,> 0.01
+4,7,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),L6 IT Car3,L6 IT Car3,189,0.0,0.0,False,False,0.01,> 0.01
+4,8,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),L6b,L6b,117,0.008547008547008548,0.0,False,False,0.01,> 0.01
+4,9,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Chandelier,Chandelier,58,0.0,0.0,False,False,0.01,> 0.01
+4,10,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Lamp5,Lamp5,241,0.008298755186721992,0.0,False,False,0.01,> 0.01
+4,11,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Lamp5 Lhx6,Lamp5 Lhx6,110,0.0,0.0,False,False,0.01,> 0.01
+4,12,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Pvalb,Pvalb,676,0.0,0.0,False,False,0.01,> 0.01
+4,13,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Sncg,Sncg,135,0.007407407407407408,0.0,False,False,0.01,> 0.01
+4,14,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Sst,Sst,739,0.0040595399188092015,0.0,False,False,0.01,> 0.01
+4,15,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Sst Chodl,Sst Chodl,6,0.0,0.0,False,False,0.01,> 0.01
+4,16,PASS_Intelligence_SavageJansen2018,Intelligence (IQ),Vip,Vip,623,0.0016051364365971107,0.0,False,False,0.01,> 0.01
+5,1,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Endothelial,Endothelial,14,0.0,0.0,False,False,0.01,> 0.01
+5,2,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),OPC,OPC,254,0.0,0.0,False,False,0.01,> 0.01
+5,3,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),L4 IT,L4 IT,1005,0.0029850746268656717,0.0,False,False,0.01,> 0.01
+5,4,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),L5 ET,L5 ET,13,0.0,0.0,False,False,0.01,> 0.01
+5,5,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),L5 IT,L5 IT,869,0.0011507479861910242,0.0,False,False,0.01,> 0.01
+5,6,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),L6 IT,L6 IT,305,0.003278688524590164,0.0,False,False,0.01,> 0.01
+5,7,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),L6 IT Car3,L6 IT Car3,189,0.0,0.0,False,False,0.01,> 0.01
+5,8,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),L6b,L6b,117,0.0,0.0,False,False,0.01,> 0.01
+5,9,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Chandelier,Chandelier,58,0.0,0.0,False,False,0.01,> 0.01
+5,10,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Lamp5,Lamp5,241,0.0,0.0,False,False,0.01,> 0.01
+5,11,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Lamp5 Lhx6,Lamp5 Lhx6,110,0.0,0.0,False,False,0.01,> 0.01
+5,12,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Pvalb,Pvalb,676,0.0,0.0,False,False,0.01,> 0.01
+5,13,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Sncg,Sncg,135,0.0,0.0,False,False,0.01,> 0.01
+5,14,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Sst,Sst,739,0.0,0.0,False,False,0.01,> 0.01
+5,15,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Sst Chodl,Sst Chodl,6,0.0,0.0,False,False,0.01,> 0.01
+5,16,PASS_Schizophrenia_Pardinas2018,Schizophrenia (SCZ),Vip,Vip,623,0.0016051364365971107,0.0,False,False,0.01,> 0.01
+6,1,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Endothelial,Endothelial,14,0.0,0.0,False,False,0.01,> 0.01
+6,2,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),OPC,OPC,254,0.023622047244094488,0.023622047244094488,True,False,0.01,> 0.01
+6,3,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),L4 IT,L4 IT,1005,0.023880597014925373,0.023880597014925373,True,False,0.01,> 0.01
+6,4,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),L5 ET,L5 ET,13,0.0,0.0,False,False,0.01,> 0.01
+6,5,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),L5 IT,L5 IT,869,0.014959723820483314,0.014959723820483314,True,False,0.01,> 0.01
+6,6,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),L6 IT,L6 IT,305,0.003278688524590164,0.0,False,False,0.01,> 0.01
+6,7,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),L6 IT Car3,L6 IT Car3,189,0.0582010582010582,0.0582010582010582,True,True,0.01,> 0.01
+6,8,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),L6b,L6b,117,0.008547008547008548,0.0,False,False,0.01,> 0.01
+6,9,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Chandelier,Chandelier,58,0.05172413793103448,0.05172413793103448,True,True,0.01,> 0.01
+6,10,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Lamp5,Lamp5,241,0.07883817427385892,0.07883817427385892,True,True,0.01,> 0.01
+6,11,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Lamp5 Lhx6,Lamp5 Lhx6,110,0.00909090909090909,0.0,False,False,0.01,> 0.01
+6,12,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Pvalb,Pvalb,676,0.03698224852071006,0.03698224852071006,True,False,0.01,> 0.01
+6,13,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Sncg,Sncg,135,0.014814814814814815,0.014814814814814815,True,False,0.01,> 0.01
+6,14,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Sst,Sst,739,0.02165087956698241,0.02165087956698241,True,False,0.01,> 0.01
+6,15,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Sst Chodl,Sst Chodl,6,0.16666666666666666,0.16666666666666666,True,True,0.01,> 0.01
+6,16,PASS_MDD_Howard2019,Major Depressive Disorder (MDD),Vip,Vip,623,0.014446227929373997,0.014446227929373997,True,False,0.01,> 0.01
+7,1,UKB_460K.mental_NEUROTICISM,Neuroticism,Endothelial,Endothelial,14,0.0,0.0,False,False,0.01,> 0.01
+7,2,UKB_460K.mental_NEUROTICISM,Neuroticism,OPC,OPC,254,0.1220472440944882,0.1220472440944882,True,True,0.01,> 0.01
+7,3,UKB_460K.mental_NEUROTICISM,Neuroticism,L4 IT,L4 IT,1005,0.08855721393034825,0.08855721393034825,True,True,0.01,> 0.01
+7,4,UKB_460K.mental_NEUROTICISM,Neuroticism,L5 ET,L5 ET,13,0.23076923076923078,0.23076923076923078,True,True,0.01,> 0.01
+7,5,UKB_460K.mental_NEUROTICISM,Neuroticism,L5 IT,L5 IT,869,0.0713463751438435,0.0713463751438435,True,True,0.01,> 0.01
+7,6,UKB_460K.mental_NEUROTICISM,Neuroticism,L6 IT,L6 IT,305,0.05245901639344262,0.05245901639344262,True,True,0.01,> 0.01
+7,7,UKB_460K.mental_NEUROTICISM,Neuroticism,L6 IT Car3,L6 IT Car3,189,0.15873015873015872,0.15873015873015872,True,True,0.01,> 0.01
+7,8,UKB_460K.mental_NEUROTICISM,Neuroticism,L6b,L6b,117,0.06837606837606838,0.06837606837606838,True,True,0.01,> 0.01
+7,9,UKB_460K.mental_NEUROTICISM,Neuroticism,Chandelier,Chandelier,58,0.05172413793103448,0.05172413793103448,True,True,0.01,> 0.01
+7,10,UKB_460K.mental_NEUROTICISM,Neuroticism,Lamp5,Lamp5,241,0.2033195020746888,0.2033195020746888,True,True,0.01,> 0.01
+7,11,UKB_460K.mental_NEUROTICISM,Neuroticism,Lamp5 Lhx6,Lamp5 Lhx6,110,0.15454545454545454,0.15454545454545454,True,True,0.01,> 0.01
+7,12,UKB_460K.mental_NEUROTICISM,Neuroticism,Pvalb,Pvalb,676,0.08727810650887574,0.08727810650887574,True,True,0.01,> 0.01
+7,13,UKB_460K.mental_NEUROTICISM,Neuroticism,Sncg,Sncg,135,0.08888888888888889,0.08888888888888889,True,True,0.01,> 0.01
+7,14,UKB_460K.mental_NEUROTICISM,Neuroticism,Sst,Sst,739,0.21380243572395127,0.21380243572395127,True,True,0.01,> 0.01
+7,15,UKB_460K.mental_NEUROTICISM,Neuroticism,Sst Chodl,Sst Chodl,6,0.5,0.5,True,True,0.01,> 0.01
+7,16,UKB_460K.mental_NEUROTICISM,Neuroticism,Vip,Vip,623,0.1187800963081862,0.1187800963081862,True,True,0.01,> 0.01
